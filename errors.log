@@ -1,0 +1,4 @@
+2025-08-16 16:56:10,443 - data_ingestion - ERROR - KeyError occurred during data preprocessing: 'comment_text'
+2025-08-16 16:56:10,444 - data_ingestion - ERROR - An unexpected error occurred in the main function: 'comment_text'
+2025-08-16 16:58:20,737 - data_ingestion - ERROR - KeyError occurred during data preprocessing: 'comment_text'
+2025-08-16 16:58:20,738 - data_ingestion - ERROR - An unexpected error occurred in the main function: 'comment_text'

@@ -1,0 +1,4 @@
+2025-08-25 18:28:23,454 - data_preprocessing - ERROR - Error normalizing text: 'comment'
+2025-08-25 18:28:23,455 - data_preprocessing - ERROR - Error in main preprocessing function: 'comment'
+2025-08-25 18:33:34,976 - data_preprocessing - ERROR - Error normalizing text: 'comment'
+2025-08-25 18:33:34,977 - data_preprocessing - ERROR - Error in main preprocessing function: 'comment'

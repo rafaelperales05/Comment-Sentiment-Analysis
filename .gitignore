@@ -7,6 +7,8 @@
 virtualenv/
 env/
 
+#data 
+data/*
 # Python cache
 __pycache__/
 *.pyc

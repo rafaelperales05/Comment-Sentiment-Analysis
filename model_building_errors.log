@@ -1,0 +1,6 @@
+2025-08-27 22:52:04,410 - model_building - ERROR - An unexpected error occurred during model training: Label must be in [0, 3), but found -1 in label
+2025-08-27 22:52:04,411 - model_building - ERROR - An error occurred in the main execution flow: Label must be in [0, 3), but found -1 in label
+2025-08-27 22:53:00,174 - model_building - ERROR - An unexpected error occurred during model training: Label must be in [0, 3), but found -1 in label
+2025-08-27 22:53:00,175 - model_building - ERROR - An error occurred in the main execution flow: Label must be in [0, 3), but found -1 in label
+2025-08-27 22:54:33,405 - model_building - ERROR - An unexpected error occurred during model training: Label must be in [0, 3), but found -1 in label
+2025-08-27 22:54:33,406 - model_building - ERROR - An error occurred in the main execution flow: Label must be in [0, 3), but found -1 in label

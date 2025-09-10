@@ -19,3 +19,10 @@ build/
 *.egg-info/
 /lgbm_model.pkl
 /tfidf_vectorizer.pkl
+/experiment_info.json
+
+# MLflow artifacts and logs
+*.png
+model_evaluation_errors.log
+dvc.lock
+nul

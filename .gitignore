@@ -24,5 +24,6 @@ build/
 # MLflow artifacts and logs
 *.png
 model_evaluation_errors.log
-dvc.lock
+dvc.lock 
+.lock*
 nul
